@@ -1,5 +1,9 @@
-# Banking-dataset-Vietnam
-Ngân hàng tiến hành khảo sát khách hàng để xem xét khả năng gửi dài hạn của khách hàng để từ đó có những chiến dịch tiếp cận đưa ra hợp lí hơn nhằm thu hút khách hàng : Thông tin bao gồm :
+# Banking-dataset-Vietnam : đây là bộ dữ liệu được sử dụng trong cuộc thi datamining hackathon ở trường đại học THỦ DẦU 1  - Bình Dương
+Nội dunng :
+  
+  Ngân hàng tiến hành khảo sát khách hàng để xem xét khả năng gửi dài hạn của khách hàng để từ đó có những chiến dịch tiếp cận đưa ra hợp lí hơn nhằm thu hút khách hàng : Thông tin bao gồm :
+  
+  
   + Cột Age : độ tuổi của khách hàng
   + Job : nghề nghiệp của khách hàng 
   
